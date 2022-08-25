@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_world">Hello world</string>
+    <string name="hello">Hello</string>
+    <string name="greetings_text">hi asdasd</string>
+    <string name="explanation_below_signup_button">Note: This is a button</string>
+    <string-array name="entries">
+        <item>Array Item One</item>
+        <item>Array Item Two</item>
+        <item>Array Item Three</item>
+    </string-array>
+</resources>
